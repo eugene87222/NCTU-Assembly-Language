@@ -1,5 +1,6 @@
 # Assembly-Language-HW-practice
-_2018.3 ~_
+
+2018.3 ~
 
 ## Assignment 1
 - What I have learnt:
