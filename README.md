@@ -3,6 +3,10 @@
 2018.3 ~
 
 ## Assignment 1
+- About:
+  - arithmetic (integer / float)
+  - FPU stack
+  - draw something on console screen
 - What I have learnt:
   - Basic concept about registers(eax, ebx, ecx...) and usage of them.
   - How to use the procedures in [Irvine32.inc and Macros.inc](http://programming.msjc.edu/asm/help/index.html).
@@ -10,6 +14,10 @@
   - How to move the cursor and change text / background color of Windows command line.
   
 ## Assignment 2
+- About:
+  - draw something on console screen
+  - animate character
+  - control character
 - What I have learnt:
   - How to handle input key from keyboard.
   - Draw a rectangle frame in counter-clock manner.
@@ -24,6 +32,7 @@
 ## Quiz 1
 - About:
   - arithmetic (integer / float)
+  - FPU stack
   - draw something on console screen
   - animate character
 - What I have learnt:
