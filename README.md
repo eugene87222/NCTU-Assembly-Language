@@ -1,6 +1,19 @@
 # Assembly-Language-HW-practice
-
 2018.3 ~
+
+- Environment:
+  - Windows 10 Home
+  - Visual Studio 2017
+
+If you want to run assembly code on your computer, I recommand you to install Visual Studio 2010 or higher version on your computer (I use VS 2017 community).  
+Also, remember to install irvine library so that you can use many convenient procedures in Irvine32 and Macros library.
+There are some tutorials below.
+- https://ithelp.ithome.com.tw/articles/10190334
+- https://www.youtube.com/watch?v=BYuMcOi7YSM
+- https://bing-yu.blogspot.tw/2017/04/visual-stdio-2017x86.html
+- https://knowlet3389.blogspot.tw/2014/12/visual-studio-assembly.html
+
+---
 
 ## Assignment 1
 - About:
@@ -62,13 +75,3 @@
   - interactive game (with a dump AI)
 - What I have learnt:
   - none
-  
----
-
-If you want to run assembly code on your computer, I recommand you to install Visual Studio 2010 or higher version on your computer (I use VS 2017 community).  
-Also, remember to install irvine library so that you can use many convenient procedures in Irvine32 and Macros library.
-There are some tutorials below.
-- https://ithelp.ithome.com.tw/articles/10190334
-- https://www.youtube.com/watch?v=BYuMcOi7YSM
-- https://bing-yu.blogspot.tw/2017/04/visual-stdio-2017x86.html
-- https://knowlet3389.blogspot.tw/2014/12/visual-studio-assembly.html
