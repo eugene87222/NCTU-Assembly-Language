@@ -21,7 +21,7 @@ There are some tutorials below.
   - FPU stack
   - draw something on console screen
 - What I have learnt:
-  - Basic concept about registers(eax, ebx, ecx...) and usage of them.
+  - Basic concept about registers (eax, ebx, ecx...) and usage of them.
   - How to use the procedures in [Irvine32.inc and Macros.inc](http://programming.msjc.edu/asm/help/index.html).
   - How to use float point stack.
   - How to move the cursor and change text / background color of Windows command line.
