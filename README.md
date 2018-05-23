@@ -14,7 +14,38 @@
   - How to handle input key from keyboard.
   - Draw a rectangle frame in counter-clock manner.
   
-
+## Assignment 3
+- About:
+  - openGL
+  - How to link cpp file and asm file together.
+- What I have learnt:
+  - How to make your code systematical, well organized.
+  
+## Quiz 1
+- About:
+  - Arithmetic (integer / float).
+  - Draw something on console screen.
+  - Animate character.
+- What I have learnt:
+  - none
+ 
+## Quiz 2
+- About:
+  - arithmetic (integer / float)
+  - draw something on console screen
+- What I have learnt:
+  - How to handle input key from keyboard.
+  - Draw a rectangle frame in counter-clock manner.
+  
+## Quiz 3
+- What I have learnt:
+  - How to handle input key from keyboard.
+  - Draw a rectangle frame in counter-clock manner.
+ 
+## Quiz 4
+- What I have learnt:
+  - How to handle input key from keyboard.
+  - Draw a rectangle frame in counter-clock manner.
 ---
 
 If you want to run assembly code on your computer, I recommand you to install Visual Studio 2010 or higher version on your computer (I use VS 2017 community).  
