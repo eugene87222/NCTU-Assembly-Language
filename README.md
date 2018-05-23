@@ -1,9 +1,9 @@
 # Assembly-Language-HW-practice
 2018.3 ~
 
-- Environment:
-  - Windows 10 Home
-  - Visual Studio 2017
+## Environment:
+- Windows 10 Home
+- Visual Studio 2017
 
 If you want to run assembly code on your computer, I recommand you to install Visual Studio 2010 or higher version on your computer (I use VS 2017 community).  
 Also, remember to install irvine library so that you can use many convenient procedures in Irvine32 and Macros library.
