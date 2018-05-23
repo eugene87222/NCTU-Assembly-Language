@@ -16,36 +16,44 @@
   
 ## Assignment 3
 - About:
-  - openGL
-  - How to link cpp file and asm file together.
+  - openGL (draw image / shapes)
 - What I have learnt:
+  - How to link cpp file and asm file together.
   - How to make your code systematical, well organized.
   
 ## Quiz 1
 - About:
-  - Arithmetic (integer / float).
-  - Draw something on console screen.
-  - Animate character.
+  - arithmetic (integer / float)
+  - draw something on console screen
+  - animate character
 - What I have learnt:
   - none
  
 ## Quiz 2
 - About:
-  - arithmetic (integer / float)
   - draw something on console screen
+  - animate character
+  - control character
 - What I have learnt:
-  - How to handle input key from keyboard.
-  - Draw a rectangle frame in counter-clock manner.
+  - none
   
 ## Quiz 3
+- About:
+  - draw something on console screen
+  - animate character
+  - control character
 - What I have learnt:
-  - How to handle input key from keyboard.
-  - Draw a rectangle frame in counter-clock manner.
+  - none
  
 ## Quiz 4
+- About:
+  - draw something on console screen
+  - animate character
+  - control character
+  - interactive game (with a dump AI)
 - What I have learnt:
-  - How to handle input key from keyboard.
-  - Draw a rectangle frame in counter-clock manner.
+  - none
+  
 ---
 
 If you want to run assembly code on your computer, I recommand you to install Visual Studio 2010 or higher version on your computer (I use VS 2017 community).  
