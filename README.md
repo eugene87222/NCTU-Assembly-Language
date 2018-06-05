@@ -41,7 +41,14 @@ There are some tutorials below.
 - What I have learnt:
   - How to link cpp file and asm file together.
   - How to make your code systematical, well organized.
+- [OpenGL Template for HW3](https://drive.google.com/open?id=1J4jjHLOKurINsXzoCTMCZHFsfire2yyu)
   
+## Final project
+- About:
+  - openGL (draw image / shapes)
+- What I have learnt:  
+- [OpenGL Template for final project](https://drive.google.com/file/d/1tf7VTl97uJqZwVWDce8vqE3MjevGTNgt/view?usp=sharing)
+
 ## Quiz 1
 - About:
   - arithmetic (integer / float)
