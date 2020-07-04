@@ -1,5 +1,4 @@
-# Assembly-Language-HW-practice
-2018.3 ~
+# Assembly language assignments & quizzes
 
 ## Environment:
 - Windows 10 Home
